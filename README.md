@@ -225,12 +225,6 @@ faceCopy/
   </tr>
 </table>
 
-### 8.3 其他示例输出视频
-
-- final_output.mp4
-- final_output_IMG_3897.mp4
-- final_output_pose1_20260615121036.mp4
-
 ## 9. 常见问题
 
 1. basicsr安装不了
@@ -256,5 +250,4 @@ faceCopy/
 
 
 ### QQ群二维码
-
-![QQ群二维码](assets/qr/qq-group-qr-placeholder.JPG)
+<img src="assets/qr/qq-group-qr-placeholder.JPG" alt="QQ群二维码" width="200">
