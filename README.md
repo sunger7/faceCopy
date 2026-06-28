@@ -220,8 +220,8 @@ faceCopy/
     <th>输出视频（换脸后）</th>
   </tr>
   <tr>
-    <td><img src="asset/pose1_20260615121036.gif" width="320"></td>
-    <td><img src="asset/final_output_pose1_20260615121036.gif" width="320"></td>
+    <td><img src="https://github.com/sunger7/faceCopy/blob/main/assets/pose1_20260615121036.gif" width="320"></td>
+    <td><img src="https://github.com/sunger7/faceCopy/blob/main/assets/final_output_pose1_20260615121036.gif" width="320"></td>
   </tr>
 </table>
 
