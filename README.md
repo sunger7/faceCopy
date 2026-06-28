@@ -225,9 +225,8 @@ faceCopy/
 
 ## 9. 常见问题
 
-1. ImportError: cannot import name rgb_to_grayscale from torchvision.transforms.functional_tensor
-- 原因: basicsr 依赖旧接口
-- 处理: 先执行 Notebook 中的兼容补丁，或使用 face_swap.py 里的补丁逻辑
+1. basicsr安装不了
+- 从GitHub的源代码安装
 
 2. 源图片检测不到人脸
 - 确认图片清晰、正脸、光照充足
@@ -247,10 +246,7 @@ faceCopy/
 - 下面已添加二维码图片位置。
 - 当前为占位图，请替换为你自己的群二维码图片，保持相同文件名即可。
 
-### 微信群二维码
-
-![微信群二维码](assets/qr/wechat-group-qr-placeholder.svg)
 
 ### QQ群二维码
 
-![QQ群二维码](assets/qr/qq-group-qr-placeholder.svg)
+![QQ群二维码](assets/qr/qq-group-qr-placeholder.JPG)
