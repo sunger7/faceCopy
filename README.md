@@ -214,8 +214,9 @@ faceCopy/
 
 ### 8.1 效果对比视频（指定样例）
 
-- 原视频（换脸前）: ![原视频](assets/asspose1_20260615121036.gif)输出视频（换脸后）: ![输出视频](assets/final_output_pose1_20260615121036.gif)
-
+- 原视频（换脸前）: ![原视频](assets/pose1_20260615121036.gif)
+- 输出视频（换脸后）: ![输出视频](assets/final_output_pose1_20260615121036.gif)
+- 替换用的源人脸图片: ![源人脸](assets/photo.png)
 
 ### 8.3 其他示例输出视频
 

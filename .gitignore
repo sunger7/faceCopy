@@ -5,7 +5,7 @@ __pycache__/
 *.pyd
 .venv/
 .face_swap_pipeline.ipynb
-
+.git.md
 # macOS
 .DS_Store
 
