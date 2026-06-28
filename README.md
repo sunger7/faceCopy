@@ -214,9 +214,16 @@ faceCopy/
 
 ### 8.1 效果对比视频（指定样例）
 
-- 原视频（换脸前）: ![原视频](assets/pose1_20260615121036.gif)
-- 输出视频（换脸后）: ![输出视频](assets/final_output_pose1_20260615121036.gif)
-- 替换用的源人脸图片: ![源人脸](assets/photo.png)
+<table>
+  <tr>
+    <th>原视频（换脸前）</th>
+    <th>输出视频（换脸后）</th>
+  </tr>
+  <tr>
+    <td><img src="pose1_20260615121036.gif" width="320"></td>
+    <td><img src="final_output_pose1_20260615121036.gif" width="320"></td>
+  </tr>
+</table>
 
 ### 8.3 其他示例输出视频
 
