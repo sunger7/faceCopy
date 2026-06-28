@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Runtime workspace
+workspace/frames/
+workspace/result_frames/
+
+# Large models and weights (download via README)
+models/
+gfpgan/weights/
+
+# Media artifacts
+*.mp4
+*.mov
+*.avi
+*.gif
+
+# Local outputs and temp
+*_output*.mp4
+test.mp4

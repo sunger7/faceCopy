@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="560" viewBox="0 0 560 560" role="img" aria-label="WeChat Group QR Placeholder">
+  <rect width="560" height="560" fill="#f3f7f8"/>
+  <rect x="20" y="20" width="520" height="520" fill="#ffffff" stroke="#16a34a" stroke-width="8" rx="24"/>
+  <text x="280" y="170" text-anchor="middle" font-size="36" font-family="Arial, sans-serif" fill="#166534">WeChat Group</text>
+  <text x="280" y="230" text-anchor="middle" font-size="30" font-family="Arial, sans-serif" fill="#166534">QR Placeholder</text>
+  <rect x="120" y="270" width="320" height="180" fill="#ecfdf5" stroke="#22c55e" stroke-width="4" rx="12"/>
+  <text x="280" y="340" text-anchor="middle" font-size="24" font-family="Arial, sans-serif" fill="#14532d">Replace with real QR</text>
+  <text x="280" y="380" text-anchor="middle" font-size="24" font-family="Arial, sans-serif" fill="#14532d">for your WeChat group</text>
+  <text x="280" y="500" text-anchor="middle" font-size="18" font-family="Arial, sans-serif" fill="#6b7280">assets/qr/wechat-group-qr-placeholder.svg</text>
+</svg>
